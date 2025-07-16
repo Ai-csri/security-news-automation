@@ -1,0 +1,17 @@
+// config/config.json
+{
+  "wordpress": {
+    "url": "https://your-wordpress-site.com",
+    "username": "your-username",
+    "password": "your-app-password"
+  },
+  "dify": {
+    "api_key": "your-dify-api-key",
+    "workflow_id": "your-workflow-id"
+  },
+  "schedule": {
+    "timezone": "Asia/Tokyo",
+    "post_times": ["09:00", "15:00"],
+    "weekdays_only": true
+  }
+}
