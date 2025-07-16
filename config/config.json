@@ -1,13 +1,13 @@
 // config/config.json
 {
   "wordpress": {
-    "url": "https://your-wordpress-site.com",
-    "username": "your-username",
-    "password": "your-app-password"
+    "url": "https://cybersecurity-info.com",
+    "username": "ttm_csi",
+    "password": "dPLm-ZF8Cu_ZrX#"
   },
   "dify": {
-    "api_key": "your-dify-api-key",
-    "workflow_id": "your-workflow-id"
+    "api_key": "app-4zJ4SCD5u2qofG5YXPqUV63a",
+    "workflow_id": "534d1b45-4f93-47c4-b842-3316d00eb536"
   },
   "schedule": {
     "timezone": "Asia/Tokyo",
